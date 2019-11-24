@@ -1,0 +1,6 @@
+dogImages/
+lfw/
+
+model_scratch.pt
+model_transfer.pt
+
