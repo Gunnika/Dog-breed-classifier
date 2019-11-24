@@ -1,6 +1,10 @@
+# data folders
 dogImages/
 lfw/
 
+# saved models
 model_scratch.pt
 model_transfer.pt
 
+#Jupyter notebook checkpoints
+.ipynb_checkpoints
